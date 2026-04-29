@@ -13,3 +13,5 @@ Screenshots y scripts relevantes.
 Reflexiones sobre lo aprendido y posibles mejoras.
 
 ⚠️ Disclaimer: Todo el contenido aquí compartido es únicamente con fines educativos y de práctica en entornos controlados. No debe ser utilizado para actividades no autorizadas.
+--------------------------------------------------------------------------------------------------------------------------
+By BOTk
